@@ -44,7 +44,6 @@ const Login = () => {
             setUser('');
             setPwd('');
             setSuccess(true);
-            Navigate{form,{replace: ture }};
 
     } 
     catch (err){
